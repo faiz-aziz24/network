@@ -9,16 +9,9 @@
 
 ## Tentang Aplikasi Network
 
-Aplikasi Network adalah aplikasi berbasis web dengan sintaks yang ekspresif dan elegan. Aplikasi 
+Aplikasi Network adalah aplikasi berbasis web dengan sintaks yang ekspresif dan elegan. Aplikasi ini tentang media sosial yang memberikan layanan berbasis text.
 
-## Tentang Aplikasi Network
-
-Aplikasi ini dibangun menggunakan add-on/plugin sebagai berikut :
-Node.js
-Laravel
-Bootstrap
-
-## Built With
+## Dibangun Dengan 
 
 Pada bagian ini, menjelaskan add-on/plugin apa saja yang digunakan untuk membangun aplikasi network. Berikut beberapa add-on/plugin yang digunakan:
 
@@ -27,6 +20,10 @@ Pada bagian ini, menjelaskan add-on/plugin apa saja yang digunakan untuk membang
 * [Bootstrap](https://getbootstrap.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Desain Database 
+
+![Desain Database](https://user-images.githubusercontent.com/43866239/156713081-b200262b-7bcb-4546-a793-0d02635791b8.jpg)
 
 ## Lisensi
 
