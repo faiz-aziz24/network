@@ -18,6 +18,16 @@ Node.js
 Laravel
 Bootstrap
 
+## Built With
+
+Pada bagian ini, menjelaskan add-on/plugin apa saja yang digunakan untuk membangun aplikasi network. Berikut beberapa add-on/plugin yang digunakan:
+
+* [Node.js](https://nodejs.org/)
+* [Laravel](https://laravel.com)
+* [Bootstrap](https://getbootstrap.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Lisensi
 
 Kerangka kerja Laravel adalah perangkat lunak sumber terbuka yang dilisensikan di bawah [lisensi MIT](https://opensource.org/licenses/MIT).
