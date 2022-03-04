@@ -9,7 +9,14 @@
 
 ## Tentang Aplikasi Network
 
-Aplikasi Network adalah aplikasi berbasis web dengan sintaks yang ekspresif dan elegan. A
+Aplikasi Network adalah aplikasi berbasis web dengan sintaks yang ekspresif dan elegan. Aplikasi 
+
+## Tentang Aplikasi Network
+
+Aplikasi ini dibangun menggunakan add-on/plugin sebagai berikut :
+Node.js
+Laravel
+Bootstrap
 
 ## Lisensi
 
